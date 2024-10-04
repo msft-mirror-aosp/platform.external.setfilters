@@ -34,7 +34,6 @@ android_test {
         "cuckoofilter",
         "junit",
         "truth",
-        "truth-java8-extension",
     ],
     certificate: "platform",
 
